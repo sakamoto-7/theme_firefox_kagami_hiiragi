@@ -1,0 +1,60 @@
+{
+  "manifest_version": 2,
+  "version": "0.2",
+  "name": "Kagami_Hiiragi-a0",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(97, 49, 138, 0.36)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(8, 11, 33)",
+      "tab_background_text": "rgb(159, 65, 190)",
+      "toolbar_field": "rgb(54, 58, 89)",
+      "toolbar_field_text": "rgb(245, 128, 28)",
+      "tab_line": "rgb(253, 124, 73)",
+      "popup": "rgb(31, 34, 61)",
+      "popup_text": "rgb(245, 128, 28)",
+      "button_background_active": "rgb(253, 124, 73)",
+      "button_background_hover": "rgb(253, 124, 73)",
+      "frame_inactive": "rgb(29, 131, 128)",
+      "icons_attention": "rgb(127, 80, 62)",
+      "icons": "rgb(159, 65, 190)",
+      "ntp_background": "rgb(68, 37, 79)",
+      "ntp_text": "rgb(55, 155, 161)",
+      "popup_border": "rgb(44, 139, 121)",
+      "popup_highlight_text": "rgb(73, 224, 253)",
+      "popup_highlight": "rgb(48, 48, 48)",
+      "sidebar_border": "rgb(48, 48, 48)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(0, 21, 79)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "sidebar": "rgb(9, 0, 0)",
+      "tab_background_separator": "rgb(230, 42, 42)",
+      "tab_loading": "rgb(253, 124, 73)",
+      "tab_selected": "rgba(31, 34, 61, 0.43)",
+      "tab_text": "rgb(73, 224, 253)",
+      "toolbar_bottom_separator": "rgba(159, 65, 190, 0.51)",
+      "toolbar_field_border_focus": "rgb(0, 24, 71)",
+      "toolbar_field_border": "rgb(48, 48, 48)",
+      "toolbar_field_focus": "rgb(0, 0, 0)",
+      "toolbar_field_highlight_text": "rgb(255, 165, 0)",
+      "toolbar_field_highlight": "rgb(51, 51, 51)",
+      "toolbar_field_separator": "rgb(159, 65, 190)",
+      "toolbar_field_text_focus": "rgb(180, 95, 95)",
+      "toolbar_top_separator": "rgba(159, 65, 190, 0.45)",
+      "toolbar_vertical_separator": "rgb(217, 217, 217)"
+    }
+  }
+}

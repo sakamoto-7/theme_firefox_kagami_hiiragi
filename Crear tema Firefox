@@ -1,0 +1,20 @@
+tema ejemplo: The Future in Pixels
+https://github.com/BlueIncog/The-Future-In-Pixels
+https://addons.mozilla.org/es/firefox/addon/the-future-in-pixels_dynamic/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser
+https://www.youtube.com/watch?v=R3RqGlHp2Xg
+
+theme manifest.json (identificar cada apartado)
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme
+
+Empaque su extensión
+https://extensionworkshop.com/documentation/publish/package-your-extension/
+https://extensionworkshop.com/documentation/publish/package-your-extension/#package-linux
+https://extensionworkshop.com/documentation/develop/web-ext-command-reference/#web-ext-build
+
+crear tema con Firefox Color
+https://addons.mozilla.org/es/firefox/addon/firefox-color/
+https://color.firefox.com/
+
+Add-on Developoer Hub (subir tema)
+https://addons.mozilla.org/en-US/developers/
+https://addons.mozilla.org/en-US/developers/themes
